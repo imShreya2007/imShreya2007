@@ -1,5 +1,5 @@
 # 💫 About Me:
-# About Me<br><br>Hi there! 👋 I'm Shreya, a passionate BCA student diving deep into the world of software development and programming.  <br><br>- **Currently working on:**  <br>  Python projects and building small games.  <br><br>- **Looking for help with:**  <br>  Advanced Python concepts, DSA, and exploring AI & Machine Learning applications.  <br><br>- **Currently learning:**  <br>  Full-stack development, Python for AI.  <br><br>
+# About Me<br><br>Hi there! 👋 I'm Shreya, a passionate BCA student diving deep into the world of software development and programming.  <br><br>- **Currently working on:**  <br>  Python projects and building small games.  <br><br>- **Currently learning:**  <br>  Full-stack development, Python for AI.  <br><br>
 
 
 ## 🌐 Socials:
