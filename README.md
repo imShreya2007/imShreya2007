@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## <br>Hi there! 👋 I'm Shreya, a passionate BCA student diving deep into the world of software development and programming.  <br><br>- 🔭 **Currently working on:**  <br>Building Python projects and creating engaging mini-games to strengthen problem-solving and programming expertise..  <br><br>-🌱 **Currently learning:**  <br>  Full-stack development, exploring Python using AI Applictaion.  <br><br>-💡**Fact:** <br> I enjoy blending creativity with logic, whether it’s coding, designing, or experimenting with new tech.  
+### <br>Hi there! 👋 I'm Shreya, a passionate BCA student diving deep into the world of software development and programming.  <br><br>- 🔭 **Currently working on:**  <br>Building Python projects and creating engaging mini-games to strengthen problem-solving and programming expertise..  <br><br>-🌱 **Currently learning:**  <br>  Full-stack development, exploring Python using AI Applictaion.  <br><br>-💡**Fact:** <br> I enjoy blending creativity with logic, whether it’s coding, designing, or experimenting with new tech. <br><br>
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/imshreya2007)
